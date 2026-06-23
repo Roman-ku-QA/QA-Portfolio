@@ -1,5 +1,3 @@
-# QA-Portfolio
-QA Engineer portfolio — test cases, checklists, bug reports
 # QA Portfolio — Роман Кулагин
 
 Начинающий QA-инженер. Прохожу курс «Инженер по тестированию» 
